@@ -30,6 +30,27 @@ Each sub-folder now contains a fully-functional project ready for you to open, b
 
 ---
 
+## 📦 Large files (Git LFS)
+Some demos (such as `dojo-demo`) track game assets or other binaries using **Git LFS**. If you don't have it installed yet, run:
+
+```bash
+# macOS (Homebrew)
+brew install git-lfs
+
+# Linux (apt example)
+sudo apt-get install git-lfs
+
+# One-time global setup
+git lfs install
+```
+After cloning this repo, Git LFS files will be pulled automatically the first time you access a directory that needs them. You can also fetch everything explicitly with:
+
+```bash
+git lfs pull --all
+```
+
+---
+
 ## 🗂️ Repository layout
 ```
 campmamo-demos/
@@ -66,4 +87,4 @@ Each submodule keeps its own licence; make sure you comply with it when re-using
 ## 🙋 Need help?
 If you hit any issues, open an [issue](https://github.com/celestiaorg/campmamo-demos/issues) or post in the Camp Mamo Discord. We're happy to help!
 
-Happy hacking! 🚀 
+Happy hacking! 🚀
