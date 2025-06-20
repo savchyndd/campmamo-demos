@@ -1,0 +1,3 @@
+[submodule "dojo-demo"]
+	path = dojo-demo
+	url = git@github.com:gbarros/dojo-demo.git
