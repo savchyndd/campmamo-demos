@@ -1,3 +1,6 @@
 [submodule "dojo-demo"]
 	path = dojo-demo
 	url = git@github.com:gbarros/dojo-demo.git
+[submodule "chopin-demo"]
+	path = chopin-demo
+	url = git@github.com:gbarros/chopin-demo.git
