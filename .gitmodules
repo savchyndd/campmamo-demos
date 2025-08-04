@@ -4,3 +4,9 @@
 [submodule "chopin-demo"]
 	path = chopin-demo
 	url = git@github.com:gbarros/chopin-demo.git
+[submodule "initia-demo"]
+	path = initia-demo
+	url = https://github.com/gbarros/initia-demo.git
+[submodule "livy-demo"]
+	path = livy-demo
+	url = https://github.com/gbarros/livy-demo.git
