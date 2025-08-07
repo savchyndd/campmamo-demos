@@ -10,3 +10,6 @@
 [submodule "livy-demo"]
 	path = livy-demo
 	url = https://github.com/gbarros/livy-demo.git
+[submodule "evolve-demo"]
+	path = evolve-demo
+	url = git@github.com:Bidon15/evolve-demo.git
